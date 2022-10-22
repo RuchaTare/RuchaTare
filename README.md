@@ -1,27 +1,26 @@
 - 👋 Hey! Thanks for stopping by. I am Rucha Tare
 -  MSc Artificial Intelligence, Heriot Watt University Edinburgh UK
+-  Ex UBS, Infosys
+-  This account - To document my academic/personal projects in Python, Machine Learning Blogs/Notes, Leetcode solutions in SQL and Python
 
 *  Here is what you should know about me.
 
-The word Potential has a lot of potential and I am chasing my own.
+I am a machine learning student with strong problem solving and navigating solution through data driven decisions and strategy. Fueled with empathy, I aim to use AI for enablement rather than establishment. Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
 
-I am a machine learning student with strong problem solving navigating solution through data driven decisions and strategy; Fueled with empathy, I aim to use AI for enablement rather than establishment. 
-Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
-
-I have done my bachelor's of engineering in Information technology, completed post graduate diploma in AI ML from IIITB and currently pursuing MSc in AI at the Heriot Watt University Edinburgh and I am thoroughly enjoying it.
+I have done my bachelor's of engineering in Information technology in MIT Auranagabad, India, completed post graduate diploma in AI ML from IIIT Bangalore and currently pursuing MScAI  at the Heriot Watt University Edinburgh and I am thoroughly enjoying it.
 
 👩‍🔬World, I feel is governed by science and patterns 
 
 Skillset :
-- Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
+📌 Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
 
 📌 Database : Mysql, MongoDb, DB2 , Neo4j 
 
 📌 Query languages : SQL ,SPARQL,CQL
 
-📌Machine learning : Regression Modelling , Random Forest, XGBoost, kNN Classifier, K-Means Clustering, PCA, NLP, NLU,Convolution Neural Network, Rasa.
+📌 Machine learning : Regression Modelling , Random Forest, XGBoost, kNN Classifier, K-Means Clustering, PCA, NLP, NLU,Convolution Neural Network, Rasa.
 
-📌Mainframe : COBOL , DB2, JCL , VSAM
+📌 Mainframe : COBOL , DB2, JCL , VSAM
 
 😊Apart from work : 
 I have always been fascinated with stories and I write Fictional/Technical/Travel stories
