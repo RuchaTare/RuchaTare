@@ -1,6 +1,7 @@
-- 👋 Rucha Shashikant Tare , MSc Artificial Intelligence, Heriot Watt University Edinburgh UK
--
-Hey! Thanks for stopping by. Here is what you should know about me.
+- 👋 Hey! Thanks for stopping by. I am Rucha Tare
+-  MSc Artificial Intelligence, Heriot Watt University Edinburgh UK
+
+*  Here is what you should know about me.
 
 The word Potential has a lot of potential and I am chasing my own.
 
@@ -12,7 +13,7 @@ I have done my bachelor's of engineering in Information technology, completed po
 👩‍🔬World, I feel is governed by science and patterns 
 
 Skillset :
-📌Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
+- Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
 
 📌 Database : Mysql, MongoDb, DB2 , Neo4j 
 
