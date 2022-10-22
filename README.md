@@ -13,6 +13,7 @@ I have done my bachelor's of engineering in Information technology in MIT Aurana
 👩‍🔬World, I feel is governed by science and patterns 
 
 Skillset :
+
 📌 Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
 
 📌 Database : Mysql, MongoDb, DB2 , Neo4j 
