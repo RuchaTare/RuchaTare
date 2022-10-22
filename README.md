@@ -1,9 +1,10 @@
 👋 Hey! Thanks for stopping by. I am Rucha Tare. 
  - MSc Artificial Intelligence, Heriot Watt University Edinburgh UK (Expected May 2023)
  - Ex UBS, Infosys
--  This account - To document my academic/personal projects in Python, Machine Learning Blogs/Notes, Leetcode solutions in SQL and Python
 
-*  Here is what you should know about me.
+ <i> <b> This account - To document my academic/personal projects in Python, Machine Learning Blogs/Notes, Leetcode solutions in SQL and Python </i> </b>
+
+Here is what you should know about me.
 
 I am a machine learning student with strong problem solving and navigating solution through data driven decisions and strategy. Fueled with empathy, I aim to use AI for enablement rather than establishment. Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
 
@@ -35,4 +36,3 @@ Causes I strongly believe in(non exhaustive):
 ⭐Adoption
 ⭐Education and financial education for women. 
 ⭐Currently associated with @teameverestNGO for sponsoring education for a girl student.
---->
