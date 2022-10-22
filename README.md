@@ -1,5 +1,5 @@
 👋 Hey! Thanks for stopping by. I am Rucha Tare. 
- - MSc Artificial Intelligence, Heriot Watt University Edinburgh UK
+ - MSc Artificial Intelligence, Heriot Watt University Edinburgh UK (Expected May 2023)
  - Ex UBS, Infosys
 -  This account - To document my academic/personal projects in Python, Machine Learning Blogs/Notes, Leetcode solutions in SQL and Python
 
