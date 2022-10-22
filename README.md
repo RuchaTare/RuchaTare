@@ -33,8 +33,12 @@ https://www.instagram.com/invites/contact/?i=1ft7v3j5i8542&utm_content=1fu2yoh
 
 Causes I strongly believe in(non exhaustive): 
 
-⭐Empathy 
+⭐Empathy
+
 ⭐Minimalism and sustainability 
+
 ⭐Adoption
+
 ⭐Education and financial education for women. 
+
 ⭐Currently associated with @teameverestNGO for sponsoring education for a girl student.
