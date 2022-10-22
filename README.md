@@ -32,6 +32,7 @@ I have always been fascinated with stories and I write Fictional/Technical/Trave
 https://www.instagram.com/invites/contact/?i=1ft7v3j5i8542&utm_content=1fu2yoh
 
 Causes I strongly believe in(non exhaustive): 
+
 ⭐Empathy 
 ⭐Minimalism and sustainability 
 ⭐Adoption
