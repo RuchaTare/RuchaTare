@@ -6,7 +6,7 @@
 
 Here is what you should know about me.
 
-I am a machine learning student with strong problem solving and navigating solution through data driven decisions and strategy. Fueled with empathy, I aim to use AI for enablement rather than establishment. Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
+I am Artificial Intelligence student who navigates solution through data driven decisions and strategy. Fueled with empathy, I aim to use AI for enablement rather than establishment. Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
 
 I have done my bachelor's of engineering in Information technology in MIT Auranagabad, India, completed post graduate diploma in AI ML from IIIT Bangalore and currently pursuing MScAI  at the Heriot Watt University Edinburgh and I am thoroughly enjoying it.
 
