@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @RuchaTare
-- 📫 How to reach me ...
-
-<!---
+- 👋 Rucha Shashikant Tare , MSc Artificial Intelligence, Heriot Watt University Edinburgh UK
+-
 Hey! Thanks for stopping by. Here is what you should know about me.
 
 The word Potential has a lot of potential and I am chasing my own.
