@@ -28,8 +28,12 @@ Skillset :
 I have always been fascinated with stories and I write Fictional/Technical/Travel stories
  @https://ruchareads.wordpress.com/
 
-📱Instagram where I share travel and content related to United Kingdom as an international student : 
-https://www.instagram.com/invites/contact/?i=1ft7v3j5i8542&utm_content=1fu2yoh
+📱Instagram: 
+
+@ruchareads - Travel content around UK
+
+@ai.supremacy - Tech and study in UK content
+
 
 Causes I strongly believe in(non exhaustive): 
 
