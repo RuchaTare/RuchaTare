@@ -24,25 +24,9 @@ Skillset :
 
 📌 Mainframe : COBOL , DB2, JCL , VSAM
 
-😊Apart from work : 
-I have always been fascinated with stories and I write Fictional/Technical/Travel stories
- @https://ruchareads.wordpress.com/
 
 📱Instagram: 
 
 @ruchareads - Travel content around UK
 
 @ai.supremacy - Tech and study in UK content
-
-
-Causes I strongly believe in(non exhaustive): 
-
-⭐Empathy
-
-⭐Minimalism and sustainability 
-
-⭐Adoption
-
-⭐Education and financial education for women. 
-
-⭐Currently associated with @teameverestNGO for sponsoring education for a girl student.
