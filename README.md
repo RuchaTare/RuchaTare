@@ -1,9 +1,9 @@
-Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300">
 
 
-<blockquote style="font-size: 30px;">"Why did the data scientist bring a ladder to the AI lab? Because they heard the best insights are always up in the cloud!" ☁️📊🤖."</blockquote>
+### <blockquote style="font-size: 60px;">"Why did the data scientist bring a ladder to the AI lab? Because they heard the best insights are always up in the cloud!" ☁️📊🤖."</blockquote>
 
 👋 Hey there! I'm Rucha, and I'm on a journey to explore and share my passion for Artificial Intelligence and Data Science. This GitHub account serves as a canvas where I document my academic and personal projects, share my insights through machine learning blogs and notes, and provide solutions to Leetcode challenges in SQL and Python.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 🌐 In my perspective, the world is governed by science and patterns, and I'm here to uncover and understand them.
 
-Here's a glimpse of my skillset:
+## My skillset:
 
 📌LANGUAGES: Python(Numpy, Pandas, NLTK, Spacy, Keras, SKlearn, Matplotlib), Java
 
