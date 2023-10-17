@@ -1,33 +1,35 @@
-👋 Hey! Thanks for stopping by. I am Rucha Tare. 
- 
- - Business Intelligence Intern Amazon, London
- - MSc Artificial Intelligence, Heriot Watt University Edinburgh UK. Grade - Merit
- 
- <i> <b> This account - To document my academic/personal projects in Python, Machine Learning Blogs/Notes, Leetcode solutions in SQL and Python </i> </b>
+Welcome to my GitHub profile!
 
-Here is what you should know about me.
+<blockquote style="font-size: 30px;">"Why did the data scientist bring a ladder to the AI lab? Because they heard the best insights are always up in the cloud!" ☁️📊🤖."</blockquote>
 
-I am Artificial Intelligence student who navigates solution through data driven decisions and strategy. Fueled with empathy, I aim to use AI for enablement rather than establishment. Ever since childhood one thing I strongly believe is in 'learning'. I try to grab every opportunity that challenges me. Sometimes it's a hard struggle to have too much on my plate but yes I am getting better at managing that too! 
+👋 Hey there! I'm Rucha, and I'm on a journey to explore and share my passion for Artificial Intelligence and Data Science. This GitHub account serves as a canvas where I document my academic and personal projects, share my insights through machine learning blogs and notes, and provide solutions to Leetcode challenges in SQL and Python.
 
-I have done my bachelor's of engineering in Information technology in MIT Auranagabad, India, completed post graduate diploma in AI ML from IIIT Bangalore and currently pursuing MSc AI at the Heriot Watt University Edinburgh and I am thoroughly enjoying it.
+🤖 As an Data Scientist, I'm constantly navigating the vast sea of data to make informed decisions and create strategic solutions. What sets me apart is my commitment to using AI for enablement rather than just establishment, driven by a strong sense of empathy. Throughout my life, I've held one belief close to my heart: "Continuous learning is the key." I seize every opportunity that challenges me, even if it means having a full plate. Over time, I've become more adept at managing this ever-increasing feast of knowledge and experiences.
 
-👩‍🔬World, I feel is governed by science and patterns 
+🎓 My academic journey has taken me from earning a Bachelor's degree in Information Technology at MIT Aurangabad, India, to completing a postgraduate diploma in AI and Machine Learning from IIIT Bangalore and Master's in Artificial Intelligence from Heriot-Watt University Edinburgh
 
-Skillset :
+🌐 In my perspective, the world is governed by science and patterns, and I'm here to uncover and understand them.
 
-📌 Programming : Python (Numpy,Pandas,NLTK,Spacy,Keras,SKlearn,Matplotlib) , COBOL
+Here's a glimpse of my skillset:
 
-📌 Database : Mysql, MongoDb, DB2 , Neo4j 
+📌LANGUAGES: Python(Numpy, Pandas, NLTK, Spacy, Keras, SKlearn, Matplotlib), Java
 
-📌 Query languages : SQL ,SPARQL,CQL
+📌DATA SOURCING: SQL (Oracle, MySQL, Redshift), NoSQL (MongoDB, Graph Databases), Advanced Excel
 
-📌 Machine learning : Regression Modelling , Random Forest, XGBoost, kNN Classifier, K-Means Clustering, PCA, NLP, NLU,Convolution Neural Network, Rasa.
+📌DATA PREPROCESSING: pandas, NumPy, NLTK, spacy, keras, sklearn
 
-📌 Mainframe : COBOL , DB2, JCL , VSAM
+📌 DATA VISUALIZATIONS  QuickSight, Tableau, plotly, seaborn, matplotlib
+
+📌 MACHINE LEARNING:Regression algorithms, Clustering, Ensemble Methods, Principal Component Analysis (PCA), Natural Language Processing, Conversational AI, Natural Language Understanding (NLU), RASA, Search Algorithms
+
+📌DEEP LEARNING: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN) , Recurrent Neural Networks (RNN) , Transformer-based Language Models (LLMs) 
+
+📌CLOUD SERVICES: AWS EC2, AWS Redshift, AWS Identity and Access Management (IAM), AWS S3, AWS Sagemaker
 
 
-📱Instagram: 
+Join me on this exciting data-driven adventure, where we'll explore data, build intelligent solutions, and share the knowledge we gain along the way. Feel free to explore my repositories, ask questions, and collaborate with me on projects. Let's shape the future together! 👩‍🔬📊🤖
 
-@ruchareads - Travel content around UK
 
-@ai.supremacy - Tech and study in UK content
+
+
+
