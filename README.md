@@ -1,9 +1,46 @@
-# Welcome to my GitHub profile!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub profile!
 
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300">
+[![Linkedin Badge](https://img.shields.io/badge/-ruchatare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchastare/)](https://www.linkedin.com/in/ruchastare/)
+[![Medium Badge](https://img.shields.io/badge/-@ruchatare-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ruchatare)](https://medium.com/@ruchatare)
+[![Instagram Badge](https://img.shields.io/badge/-@rucharoams-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rucharoams/)](https://www.instagram.com/rucharoams/)
+[![Instagram Badge](https://img.shields.io/badge/-@ai.supremacy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ai.supremacy/)](https://www.instagram.com/ai.supremacy)
+[![Gmail Badge](https://img.shields.io/badge/-ruchatare-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tarerucha8@gmail.com)](mailto:tarerucha8@gmail.com)
+
+ <!--Header-->
+
+<a href="https://github.com/RuchaTare">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<br/>
+<a href="https://github.com/RuchaTare"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">    
+</a>
+<p align="center">
+ 
+<a href="https://github.com/RuchaTare"> 
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=700&height=120&lines=Rucha+Tare;Edinburgh+,+UK;Data+Scientist+,XCM.+Ex+:+Amazon+,UBS;MSc+Artificial+Intelligence+,Heriot-Watt+University+,+Edinburgh;Area+Of+Interest+:+NLP+,+Conversational+AI+,+LLMs; " alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/RuchaTare">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
 
-### <blockquote style="font-size: 60px;">"Why did the data scientist bring a ladder to the AI lab? Because they heard the best insights are always up in the cloud!" ☁️📊🤖."</blockquote>
+
+<p align="left"> 
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="400"> 
+
+<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="left">
+<img src="https://i.imgur.com/KwHw09D.gif" height="50" width="200">
+
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="left">
+<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" width="500">
+
+## Introduction
 
 👋 Hey there! I'm Rucha, and I'm on a journey to explore and share my passion for Artificial Intelligence and Data Science. This GitHub account serves as a canvas where I document my academic and personal projects, share my insights through machine learning blogs and notes, and provide solutions to Leetcode challenges in SQL and Python.
 
@@ -11,8 +48,7 @@
 
 🌐 In my perspective, the world is governed by science and patterns, and I'm here to uncover and understand them.
 
-## My skillset:
-
+## Skillset
 📌LANGUAGES: Python(Numpy, Pandas, NLTK, Spacy, Keras, SKlearn, Matplotlib), Java
 
 📌DATA SOURCING: SQL (Oracle, MySQL, Redshift), NoSQL (MongoDB, Graph Databases), Advanced Excel
@@ -27,20 +63,19 @@
 
 📌CLOUD SERVICES: AWS EC2, AWS Redshift, AWS Identity and Access Management (IAM), AWS S3, AWS Sagemaker
 
-## My Top Projects 🚀
+## Top Projects 🚀
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=RuchaTare&repo=F21MP-MastersProject)](https://github.com/RuchaTare/F21MP-MastersProject)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=RuchaTare&repo=neural-networks-from-scratch)](https://github.com/RuchaTare/neural-networks-from-scratch)
-## My GitHub Stats 📊
+
+## GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuchaTare&show_icons=true)
 
 ## Activity Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuchaTare&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-Join me on this exciting data-driven adventure, where we'll explore data, build intelligent solutions, and share the knowledge we gain along the way. Feel free to explore my repositories, ask questions, and collaborate with me on projects. Let's shape the future together! 👩‍🔬📊🤖
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Join me on this exciting data-driven adventure, where we'll explore data, build intelligent solutions, and share the knowledge we gain along the way. Feel free to explore my repositories, ask questions, and collaborate with me on projects. Let's shape the future together! 👩‍🔬📊🤖
 
 
 
