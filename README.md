@@ -32,14 +32,6 @@
 <p align="left"> 
 <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="400"> 
 
-<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="left">
-<img src="https://i.imgur.com/KwHw09D.gif" height="50" width="200">
-
-<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
-<p align="left">
-<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" width="500">
-
 ## Introduction
 
 👋 Hey there! I'm Rucha, and I'm on a journey to explore and share my passion for Artificial Intelligence and Data Science. This GitHub account serves as a canvas where I document my academic and personal projects, share my insights through machine learning blogs and notes, and provide solutions to Leetcode challenges in SQL and Python.
